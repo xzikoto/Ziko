@@ -1,0 +1,120 @@
+﻿
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 13px;
+}
+.navbar {
+    padding-top: 7px;
+    padding-bottom: 2px;
+}
+#slider, #slider div.sliderInner {
+height: 506px;
+}
+
+#bs-example{
+    height: 200px;
+}
+
+
+.sliderFrame{
+margin-top: 50px;
+}
+#menu-menu-1{
+    font-size:13px;
+}
+.table1{
+    margin:0 auto;
+	padding-left: 58px;
+}
+.mmm {
+font-size: 14px;
+font-weight: bold;
+color: #000;
+text-decoration: none;
+}
+.photoLink {
+display: inline-block;
+border: #d9e2ea 1px solid;
+padding: 5px;
+background-color: #FFF;
+}
+.info{
+    width: 510px;
+height: 50px;
+padding-left: 4px;
+font-size: 12pt;
+}
+.all{
+    border:1px solid #ds9e2ea ;
+	padding-right: 170px;
+margin:0px auto;
+	}
+.btn{
+    margin-top: 100px;
+}
+.geo {
+    margin: 100px;
+}
+#mapcanvas{
+    height: 400px;
+width: 860px;
+}
+.forminformation {
+height: 400px;
+width :  1000px;
+font-family:glyphicons halflings regular ;
+}
+.div1
+ {
+	width:500px;
+	height:400px;
+	padding-left: 58px;
+	}
+	
+	.gif1 {
+position: absolute;
+left: 925px;
+top:60px;
+	}
+	
+
+.navbar {
+  background-color: #2aabd2;
+  background-position: 0 -15px;
+   }
+	
+	
+	.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a	{
+color:white;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover {
+  color:#282828 ;  
+}
+
+.navbar-text {
+    color: white;
+  }
+
+.pincontacts {
+color:grey;
+}
+
+#h1contacts {
+width:1000px;
+height:400px;
+text-align:  center;
+text-align: justify ;
+padding-left: 155px;
+margin:60px auto;
+color:#777 ;
+color:black;
+	}
+form {
+display: block;
+margin-top: 10em;
+}
